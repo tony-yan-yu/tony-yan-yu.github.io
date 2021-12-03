@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appId": "W6FCJ9GKDF.co.pactplatform.nations.production",
+                "appID": "W6FCJ9GKDF.co.pactplatform.nations.production",
                 "paths": [ "*" ]
             }
         ]
